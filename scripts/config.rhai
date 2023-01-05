@@ -1,12 +1,12 @@
 let titles_type = ["Survey", "Review", "Overview"];
 let titles_model = ["ViT", "MLP", "Transformer", "GPT", "Graph", "Knowlege Graph"];
-let titles_method = ["Cross-Domain", "Cross Domain", "Recommendation", "Sequential"];
+let titles_method = ["Cross", "Domain", "Recommendation", "Sequential", "Contrastive", "Embedding"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yongfeng Zhang"];
+let authors_array = ["Yongfeng Zhang", "Xiangyu Zhao", "Wenqi Fan"];
 
 let conferences = [
     // AI
-    "AAAI", "ACM MM", "IJCAI",
+    "AAAI", "IJCAI",
     // DM
     "CIKM", "KDD", "RecSys", "WSDM", "WWW",
     // IR
