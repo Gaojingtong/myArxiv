@@ -1,6 +1,6 @@
 let titles_type = ["Survey", "Review", "Overview"];
-let titles_model = ["ViT", "MLP", "Transformer", "GPT", "Graph", "Knowlege Graph"];
-let titles_method = ["Cross", "Domain", "Recommendation", "Sequential", "Contrastive", "Embedding"];
+let titles_model = ["ViT", "MLP", "Transformer", "GPT", "Diffusion", "Segment Anything", "LLM", "Large Language Model"];
+let titles_method = ["Cross", "Domain", "Recommendation", "Embedding", "Multiscenario", "Multi-scenario", "LLM", "Large Language Model", "GPT"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yongfeng Zhang", "Xiangyu Zhao", "Wenqi Fan"];
 
