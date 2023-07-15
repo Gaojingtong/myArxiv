@@ -1,6 +1,6 @@
 let titles_type = ["Survey", "Review", "Overview"];
 let titles_model = ["ViT", "MLP", "Transformer", "GPT", "Diffusion", "Segment Anything", "LLM"];
-let titles_method = ["Cross", "Domain", "Recommendation", "Large Language Model", "GPT", "Multi scenario", "Multi task", "Multi modal", "Multi behavior"];
+let titles_method = ["Cross", "Domain", "Recommendation", "Large Language Model", "GPT", "Multi-scenario", "Multi-task", "Multi-modal", "Multi-behavior"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yongfeng Zhang", "Xiangyu Zhao", "Wenqi Fan"];
 
@@ -8,7 +8,7 @@ let conferences = [
     // AI
     "AAAI", "IJCAI",
     // DM
-    "CIKM", "KDD", "RecSys", "WSDM", "WWW", "ICDE", "BigData"
+    "CIKM", "KDD", "RecSys", "WSDM", "WWW", "ICDE", "BigData",
     // IR
     "SIGIR",
     // ML
