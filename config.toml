@@ -9,6 +9,11 @@ title = "Information Retrieval"
 
 [[sources]]
 limit = 450
+category = "cs.CL"
+title = "Computation and Language"
+
+[[sources]]
+limit = 450
 category = "cs.DB"
 title = "Databases"
 
